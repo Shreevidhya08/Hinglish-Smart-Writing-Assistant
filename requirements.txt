@@ -1,0 +1,15 @@
+# Starter dependency list. Verify against imports in the final notebook.
+# Pin versions that worked in your environment before final submission.
+torch
+transformers
+accelerate
+sentencepiece
+gradio
+pandas
+numpy
+scikit-learn
+sacrebleu
+bert-score
+jiwer
+
+# Add any other packages imported by the notebook.
